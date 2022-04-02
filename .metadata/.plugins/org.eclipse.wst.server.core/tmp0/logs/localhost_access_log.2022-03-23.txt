@@ -1,0 +1,9 @@
+127.0.0.1 - - [23/Mar/2022:15:58:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:15:59:13 +0530] "POST /MajorProject/RecoModeServlet?state=Delhi&board=CBSE&from=3&to=5&total=200000 HTTP/1.1" 200 177
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:16:05:07 +0530] "POST /MajorProject/RecoModeServlet?state=UP&board=State%20Board&from=3&to=5&total=200000 HTTP/1.1" 200 194
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:16:05:20 +0530] "POST /MajorProject/RecoModeServlet?state=UP&board=State%20Board&from=3&to=5&total=600000 HTTP/1.1" 200 194
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:16:05:32 +0530] "POST /MajorProject/RecoModeServlet?state=UP&board=State%20Board&from=5&to=7&total=600000 HTTP/1.1" 200 194
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:16:05:45 +0530] "POST /MajorProject/RecoModeServlet?state=UP&board=State%20Board&from=5&to=7&total=6000000 HTTP/1.1" 200 194
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:16:07:10 +0530] "POST /MajorProject/RecoModeServlet?state=Karnatka&board=CBSE&from=5&to=7&total=600000 HTTP/1.1" 200 384
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:16:08:32 +0530] "POST /MajorProject/QueryAndSuggServlet?trackid=DL126&type=Suggestion&words=Look%20na HTTP/1.1" 200 199
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:16:09:40 +0530] "POST /MajorProject/TrackServlet?trackid=DL125 HTTP/1.1" 200 75
